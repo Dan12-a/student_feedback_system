@@ -39,11 +39,17 @@ Open the app in your browser: [http://localhost:5000](http://localhost:5000)
 
 ## 📷 Screenshots
 
-> Add your screenshots here:
+
 > - Feedback Form
 > - Admin Login Page
 > - Feedback Summary Table
 > - Thank You Page
+<img width="1174" height="302" alt="Screenshot 2025-08-05 145726" src="https://github.com/user-attachments/assets/53e3cee1-1878-4e16-96ab-89445b86c2b8" />
+<img width="352" height="305" alt="Screenshot 2025-08-05 145645" src="https://github.com/user-attachments/assets/703b7fc6-3fe0-4f2a-89e7-dafec4b6f399" />
+<img width="1131" height="486" alt="Screenshot 2025-08-05 145621" src="https://github.com/user-attachments/assets/18ec4863-e6f9-48a7-8975-d61f3d093606" />
+<img width="435" height="257" alt="Screenshot 2025-08-05 145511" src="https://github.com/user-attachments/assets/b1feb743-64c4-4ae9-b28e-e5e8b5d36c77" />
+<img width="1140" height="505" alt="Screenshot 2025-08-05 145443" src="https://github.com/user-attachments/assets/cd1f70c4-5b77-494a-bb41-45fee1729e5c" />
+
 
 ---
 
