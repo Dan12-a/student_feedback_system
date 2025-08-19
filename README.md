@@ -44,11 +44,13 @@ Open the app in your browser: [http://localhost:5000](http://localhost:5000)
 > - Admin Login Page
 > - Feedback Summary Table
 > - Thank You Page
-<img width="1174" height="302" alt="Screenshot 2025-08-05 145726" src="https://github.com/user-attachments/assets/53e3cee1-1878-4e16-96ab-89445b86c2b8" />
-<img width="352" height="305" alt="Screenshot 2025-08-05 145645" src="https://github.com/user-attachments/assets/703b7fc6-3fe0-4f2a-89e7-dafec4b6f399" />
-<img width="1131" height="486" alt="Screenshot 2025-08-05 145621" src="https://github.com/user-attachments/assets/18ec4863-e6f9-48a7-8975-d61f3d093606" />
-<img width="435" height="257" alt="Screenshot 2025-08-05 145511" src="https://github.com/user-attachments/assets/b1feb743-64c4-4ae9-b28e-e5e8b5d36c77" />
-<img width="1140" height="505" alt="Screenshot 2025-08-05 145443" src="https://github.com/user-attachments/assets/cd1f70c4-5b77-494a-bb41-45fee1729e5c" />
+<img width="1234" height="402" alt="Screenshot 2025-08-19 130222" src="https://github.com/user-attachments/assets/b68b2238-0122-464d-9e3e-1b820efbe243" />
+<img width="1291" height="436" alt="Screenshot 2025-08-19 125919" src="https://github.com/user-attachments/assets/e3cb5b52-3f52-4eaf-9082-f235af7de9eb" />
+<img width="1274" height="428" alt="Screenshot 2025-08-19 125703" src="https://github.com/user-attachments/assets/7100bc3f-9972-43f7-a2c0-e64f905d3ec0" />
+<img width="369" height="370" alt="Screenshot 2025-08-19 125638" src="https://github.com/user-attachments/assets/7034fdfb-c814-42b5-83d0-e84b0262a490" />
+<img width="433" height="258" alt="Screenshot 2025-08-19 125614" src="https://github.com/user-attachments/assets/7b314748-e0f0-4e7d-a572-3b3e561cbd4d" />
+<img width="1146" height="495" alt="Screenshot 2025-08-19 125537" src="https://github.com/user-attachments/assets/bb9924f9-61ea-477c-8523-bfa6fb0aec8e" />
+
 
 
 ---
