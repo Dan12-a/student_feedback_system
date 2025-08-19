@@ -66,5 +66,3 @@ Open the app in your browser: [http://localhost:5000](http://localhost:5000)
 
 ---
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
